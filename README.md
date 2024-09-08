@@ -7,4 +7,4 @@ Soy un desarrollador en formación con un fuerte interés en el desarrollo web, 
 🛠️ Explorando bases de datos como MySQL y el desarrollo de aplicaciones completas (full-stack) <br /> <br />
 Mi objetivo es seguir creciendo en el área del desarrollo web y eventualmente convertirme en un desarrollador full-stack. ¡Estoy abierto a colaborar y aprender más de esta comunidad! <br />
 
-[![yxnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxnny)](https://github.com/yxnny/github-readme-stats)
+[![yxnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxnny)]([https://github.com/yxnny/github-readme-stats](https://github.com/yxnny/yxnny))
